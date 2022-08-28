@@ -1,10 +1,11 @@
-# Prerequisites
 *.d
 .vs*
 *.vcx*
 *.sln
 x64
 x86
+# Prerequisites
+
 # Compiled Object files
 *.slo
 *.lo
